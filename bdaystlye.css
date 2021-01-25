@@ -1,0 +1,17 @@
+body {
+	background-color: purple;
+}
+
+figure {
+	text-align: center;
+}
+
+details {
+	background-color: lightblue;
+	font-size: xx-large;
+	font-variant: small-caps; 
+}
+
+summary {
+	background-color: lightblue;
+}
